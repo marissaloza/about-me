@@ -16,7 +16,7 @@ function changeImage() {
     console.log(myPhoto.src);
 
     if (myPhoto.src ==
-    "file:///Users/girlswhocode2018/development/sag.jpg"){
+    "about-me/sag.jpg"){
         myPhoto.src = "sag-constl.jpg"
     } else {
         myPhoto.src = "sag.jpg"
